@@ -1,24 +1,35 @@
 # vouchers-app-springboot-mysql-jwtAuth-reactjs-docker-compose
 
-Simple Voucher App
-Tools : Reactjs - MYSQL - SpringBoot - JWT - Docker
+# Simple Voucher App
+---------------------------
+# Tools: 
+	-Reactjs 
+	-MYSQL 
+	-SpringBoot  
+	-JWT 
+	-Docker
 
-Notes
-Project uses the below sockets
+--------------------------
+# Project uses the below sockets
 	-9090
 	-3306
 	-8080
-Steps 
-1- git the project 
-2- run docker-compose up
-3- visit http://localhost:9090
+---------------------------------------
+# Steps 
 
-4-Login 
+-git the project 
+-run docker-compose up
+-visit http://localhost:9090
+------------------------------------
+-Login 
+------------------
 	-As admin 
-		admin
-		admin-admin
+		.admin
+		.admin-admin
+-----------------		
 	-As User
-		tariqsenosy
-		1234578
-5-Api Documentation
+		.tariqsenosy
+		.1234578
+-----------------------------------		
+-Api Documentation
 	http://localhost:8080/v2/api-docs
