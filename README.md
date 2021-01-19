@@ -1,4 +1,4 @@
-# vouchers-app-springboot-mysql-jwtAuth-reactjs-docker-compose
+# Vouchers-app-Using-springboot-mysql-jwtAuth-reactjs-docker-compose
 
 # Simple Voucher App
 ---------------------------
@@ -16,10 +16,9 @@
 	-8080
 ---------------------------------------
 # Steps 
-
--git the project 
--run docker-compose up
--visit http://localhost:9090
+	-git the project 
+	-run docker-compose up
+	-visit http://localhost:9090
 ------------------------------------
 -Login 
 ------------------
